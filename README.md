@@ -1,4 +1,4 @@
-<h2>Olá, meu nome é Eduardo Pereira. Sou Front-end developer e um back-end developer!</h2>
+<h2>Olá, meu nome é Eduardo Pereira. Sou um Desenvolvedor Full stack!</h2>
 
 <h3>Linguagens e Ferramentas:</h3>
 <p><strong>JavaScript, Css, Html, Node.JS, Express.Js, MySQL, MongoDB, Git, Github <strong></p>
