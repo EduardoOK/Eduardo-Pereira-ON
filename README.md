@@ -20,7 +20,10 @@ Skills:
 <br/>
 
 <a href="https://github.com/EduardoOK">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoOK&theme=buefy&show_icons=true" />
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=EduardoOK&show_icons=true&theme=transparent"
+     />
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoOK&theme=buefy&layout=compact" />
 </a>
 
